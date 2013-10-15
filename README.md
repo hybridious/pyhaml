@@ -1,5 +1,7 @@
 #pyHaml
 
+**deprecated**: do not use.
+
 pyHaml is a python port of [Haml](http://haml.hamptoncatlin.com), an HTML templating engine used primarily with Ruby on Rails.  Ruby Haml will be referred to as rHaml for the purposes of this document.
 
 In order to make pyHaml a bit more pythonic, most of the syntax evaluated as Ruby in rHaml is evaluated as python.  For example, instead of using ruby hashes for attributes pyhaml uses python `dict` syntax:
