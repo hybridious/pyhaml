@@ -56,4 +56,4 @@ rendering `bar.haml` produces `<p>foo</p>`.  Some versions of python, particular
 
 #portability
 
-pyHaml runs on python 2.5, 2.6 and the latest version of python 3.
+pyHaml runs on python 2.5, 2.6, 2.7 and the latest version of python 3.
